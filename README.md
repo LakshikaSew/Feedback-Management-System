@@ -20,16 +20,16 @@ This Feedback Management System is developed for Shanti Maurice Resort & Spa in 
 ![Import Customer Details](https://github.com/LakshikaSew/Feedback-Management-System/blob/654f68de553aa0f1495722762955b5a3b7b399b1/screen%20shots/import%20customer%20details.png)
 
 <b>Features</b>
+<ul>
+<li>Customer Feedback Management - Collect and store feedback from customers.</li>
 
-Customer Feedback Management - Collect and store feedback from customers.
+<li>Auto-Fill Customer Details - Automatically retrieve existing customer details from the database when filling out forms.</li>
 
-Auto-Fill Customer Details - Automatically retrieve existing customer details from the database when filling out forms.
+<li>Report Generation - Generate detailed reports of customer feedback.</li>
 
-Report Generation - Generate detailed reports of customer feedback.
+<li>User Management - Manage system users with role-based access control.</li>
 
-User Management - Manage system users with role-based access control.
-
-Data Validation and Alerts - Ensure data accuracy and provide real-time alerts.
+<li>Data Validation and Alerts - Ensure data accuracy and provide real-time alerts.</li>
 
 <b>Technologies Used</b>
 
