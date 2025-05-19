@@ -17,7 +17,7 @@ This Feedback Management System is developed for Shanti Maurice Resort & Spa in 
 ![User Management](https://github.com/LakshikaSew/Feedback-Management-System/blob/ed5c0c67d5dbea5450d643fcc7f0527b911d46b7/screen%20shots/manage%20users.png)
 
 <b>Import Customer Details</b>
-![Import Customer Details](screen shots/import customer details.png)
+![Import Customer Details](https://github.com/LakshikaSew/Feedback-Management-System/blob/654f68de553aa0f1495722762955b5a3b7b399b1/screen%20shots/import%20customer%20details.png)
 
 <b>Features</b>
 
