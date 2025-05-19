@@ -1,9 +1,10 @@
-# Feedback-Management-System
+# Feedback-Management-System>
+
 <b>Project Overview</b>
 
 This Feedback Management System is developed for Shanti Maurice Resort & Spa in Mauritius. It allows the resort to collect, manage, and report on customer feedback efficiently. The system is designed to store customer feedback in a database, generate reports, and auto-fill existing customer details during form submissions. Additionally, it includes user management for system access.
 
-Features
+<b>Features</b>
 
 Customer Feedback Management - Collect and store feedback from customers.
 
@@ -15,7 +16,7 @@ User Management - Manage system users with role-based access control.
 
 Data Validation and Alerts - Ensure data accuracy and provide real-time alerts.
 
-Technologies Used
+<b>Technologies Used</b>
 
 Frontend: HTML, CSS, JavaScript
 
@@ -25,11 +26,11 @@ Database: MySQL
 
 Tools: MySQL Workbench, Visual Studio Code
 
-System Architecture
+<b>System Architecture</b>
 
 Client (Browser) --> Frontend (HTML, CSS, JS) --> Backend (PHP) --> Database (MySQL)
 
-Database Structure
+<b>Database Structure</b>
 
 Customer Details: Stores personal and contact information.
 
