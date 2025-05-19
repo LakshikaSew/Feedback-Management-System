@@ -30,25 +30,31 @@ This Feedback Management System is developed for Shanti Maurice Resort & Spa in 
 <li>User Management - Manage system users with role-based access control.</li>
 
 <li>Data Validation and Alerts - Ensure data accuracy and provide real-time alerts.</li>
+</ul>
+
 
 <b>Technologies Used</b>
+<ul>
+<li>Frontend: HTML, CSS, JavaScript</li>
 
-Frontend: HTML, CSS, JavaScript
+<li>Backend: PHP</li>
 
-Backend: PHP
+<li>Database: MySQL</li>
 
-Database: MySQL
+<li>Tools: MySQL Workbench, Visual Studio Code</li>
+</ul>
 
-Tools: MySQL Workbench, Visual Studio Code
 
 <b>System Architecture</b>
 
 Client (Browser) --> Frontend (HTML, CSS, JS) --> Backend (PHP) --> Database (MySQL)
 
+
 <b>Database Structure</b>
+<ul>
+<li>Customer Details: Stores personal and contact information.</li>
 
-Customer Details: Stores personal and contact information.
+<li>Feedback Records: Stores feedback data, linked to customer details.</li>
 
-Feedback Records: Stores feedback data, linked to customer details.
-
-User Management: Manages user credentials and access levels.
+<li>User Management: Manages user credentials and access levels.</li>
+</ul>
