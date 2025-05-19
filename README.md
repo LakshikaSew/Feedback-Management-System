@@ -5,7 +5,7 @@
 This Feedback Management System is developed for Shanti Maurice Resort & Spa in Mauritius. It allows the resort to collect, manage, and report on customer feedback efficiently. The system is designed to store customer feedback in a database, generate reports, and auto-fill existing customer details during form submissions. Additionally, it includes user management for system access.
 
 <b>Login Page</b>
-![Login Page]()
+![Login Page](https://github.com/LakshikaSew/Feedback-Management-System/blob/908205af1ea81b54aeda025f514e76c82ed7fd2c/screen%20shots/loging.png)
 
 <b>Feedback Form</b>
 ![Feedback Form](https://github.com/LakshikaSew/Feedback-Management-System/blob/5703acbca7d86fc15064cb14892ecd0b3293905b/screen%20shots/feedback%20form.png)
