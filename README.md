@@ -1,5 +1,5 @@
 # Feedback-Management-System
-Project Overview
+<b>Project Overview</b>
 
 This Feedback Management System is developed for Shanti Maurice Resort & Spa in Mauritius. It allows the resort to collect, manage, and report on customer feedback efficiently. The system is designed to store customer feedback in a database, generate reports, and auto-fill existing customer details during form submissions. Additionally, it includes user management for system access.
 
